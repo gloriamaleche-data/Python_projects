@@ -1,6 +1,6 @@
 # Sales Reconciliation System
 
-## Version 2: Object-Oriented Programming
+## Version 1: Core Python Functionality
 
 A Python-based sales reconciliation system for managing branch sales reports and identifying discrepancies between recorded sales and amounts banked.
 
