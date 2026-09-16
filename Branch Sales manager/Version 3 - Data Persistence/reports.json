@@ -1,0 +1,9 @@
+[
+    {
+        "branch": "Nairobi",
+        "mpesa": 1200.0,
+        "cash": 2000.0,
+        "card": 4500.0,
+        "total_banked": 5000.0
+    }
+]
