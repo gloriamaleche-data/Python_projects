@@ -13,6 +13,7 @@ V1 Core Python → V2 OOP → V3 Data persistence → **V4 GUI** → V5 Reportin
 Windows and macOS — see `requirements.txt` for Linux setup if needed).
 
 To run the application locally, run the following commands from your terminal.
+
 Windows users:
 ```bash
 git clone https://github.com/gloriamaleche-data/Python_projects.git
