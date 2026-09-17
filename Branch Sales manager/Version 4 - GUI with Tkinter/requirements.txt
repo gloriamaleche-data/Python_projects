@@ -1,0 +1,8 @@
+# No external packages required.
+# gui.py uses tkinter, ttk, and messagebox; all part of Python's standard library.
+# reconciliation.py uses json; also standard library.
+#
+# On Windows and macOS, tkinter ships with the standard Python installer.
+# On Linux, if you get "ModuleNotFoundError: No module named 'tkinter'", install it with:
+#   sudo apt install python3-tk      (Debian/Ubuntu)
+#   sudo dnf install python3-tkinter (Fedora)

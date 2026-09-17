@@ -1,0 +1,30 @@
+[
+    {
+        "branch": "Kitengela",
+        "mpesa": 4837.0,
+        "cash": 9800.0,
+        "card": 0.0,
+        "total_banked": 23890.0
+    },
+    {
+        "branch": "Nakuru",
+        "mpesa": 1200.0,
+        "cash": 23900.0,
+        "card": 0.0,
+        "total_banked": 5000.0
+    },
+    {
+        "branch": "Narok",
+        "mpesa": 12000.0,
+        "cash": 2389.0,
+        "card": 0.0,
+        "total_banked": 12903.0
+    },
+    {
+        "branch": "Mombasa",
+        "mpesa": 12500.0,
+        "cash": 5000.0,
+        "card": 0.0,
+        "total_banked": 17500.0
+    }
+]
